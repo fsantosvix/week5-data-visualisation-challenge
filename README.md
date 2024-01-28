@@ -12,6 +12,6 @@ To complete this challenge I sought assistance from the following:
 
 - [Matplotlib Library](https://matplotlib.org/stable/gallery/statistics/boxplot_demo.html) - how to change colour and style of boxplot outlier symbols
 
-### AskBCS Learning Assistance
+### Tutor Session
 
-- How to loop through a Dataframe using 'iterrows' function - assistance provided by Shivek Maharaj
+- How to integrate loop with the calculations of outliers - orientation provided by _Khangwelo Maphanda_
